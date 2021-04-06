@@ -1,0 +1,122 @@
+.categoryForm
+{
+    text-align: center;
+    display: block;
+    margin: 30 auto;
+}
+
+.categoryName
+{
+    width: 30vw;
+}
+
+.postForm
+{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.postForm label
+{
+    display: block;
+    margin: 10 0;
+}
+
+.postTitle
+{
+    width: 40vw;
+}
+
+.postContent
+{
+    width: 40vw;
+    height: 40vh;
+}
+
+.selectCategory
+{
+    width: 40vw;
+}
+
+.blogArticle
+{
+    display: block;
+    background: gray;
+}
+
+.blogArticle p
+{
+    color: white;
+}
+
+.blogArticle h2
+{
+    color: white;
+}
+
+.readMoreHREF
+{
+    color: chartreuse;
+}
+
+.grid_container
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    width: 90vw;
+    margin: 5vh 5vw;
+}
+
+.grid_container p
+{
+    max-width: 20vw;
+    word-wrap: break-word;
+    line-height: 25px;
+}
+
+.singlePostContent
+{
+    text-align: center;
+    word-wrap: break-word;
+    line-height: 25px;
+}
+
+.divPostContent
+{
+    margin: 0 20vw;
+    width: 60vw;
+}
+
+.singlePostDate
+{
+    text-align: center;
+    font-weight: 700;
+}
+
+.ahrefBlog
+{
+    text-align: center;
+    display: grid;
+}
+
+.ahrefBlog a
+{
+    margin: 15 0 0 0;
+    color: blueviolet;
+}
+
+.editPost
+{
+    background: darkblue;
+    color: darkkhaki;
+    border-radius: 40px;
+    width: 100px;
+    line-height: 2.3;
+    text-align: center;
+    margin: 10 auto;
+    display: block;
+    text-decoration: none;
+}
